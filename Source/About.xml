@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Sustainable Drill Updated</name>
+  <supportedVersions>
+    <li>1.0</li>
+  </supportedVersions>
+  <author>Bradeurs</author>
+  <description>Provides a low yield drill that taps into very deep resource pockets, providing a sustainable means of aquiring resources.
+
+It does not matter where the sustainable drill is placed.
+
+It uses a lot of power, is fairly expensive to make, and requires Deep Drilling research in order to be built.
+
+This is loosely based on TheUbie's deep core miner mod, but pulls resources at a much slower rate and also mines compacted machinery.
+   </description>
+</ModMetaData>

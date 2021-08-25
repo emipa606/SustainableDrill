@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RecipeDef>
+    <defName>MiningSustainableSteel</defName>
+    <label>mining deep compacted steel</label>
+    <description>mining deep compacted steel.</description>
+    <jobString>Mining deep compacted steel.</jobString>
+    <workAmount>7000</workAmount>
+    <efficiencyStat>MiningSpeed</efficiencyStat>
+    <effectWorking>CutStone</effectWorking>
+    <workSkillLearnFactor>2</workSkillLearnFactor>
+    <products>
+      <Steel>35</Steel>
+    </products>
+    <workSkill>Mining</workSkill>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>MiningSustainablePlasteel</defName>
+    <label>mining deep compacted plasteel</label>
+    <description>mining deep compacted plasteel.</description>
+    <jobString>Mining deep compacted plassteel.</jobString>
+    <workAmount>7000</workAmount>
+    <efficiencyStat>MiningSpeed</efficiencyStat>
+    <effectWorking>CutStone</effectWorking>
+    <workSkillLearnFactor>2</workSkillLearnFactor>
+    <products>
+      <Plasteel>5</Plasteel>
+    </products>
+    <workSkill>Mining</workSkill>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>MiningSustainableMachinery</defName>
+    <label>mining deep compacted machinery</label>
+    <description>mining deep compacted machinery.</description>
+    <jobString>Mining deep compacted machinery.</jobString>
+    <workAmount>10000</workAmount>
+    <efficiencyStat>MiningSpeed</efficiencyStat>
+    <effectWorking>CutStone</effectWorking>
+    <workSkillLearnFactor>2</workSkillLearnFactor>
+    <products>
+      <ComponentIndustrial>1</ComponentIndustrial>
+    </products>
+    <workSkill>Mining</workSkill>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>MiningSustainableUranium</defName>
+    <label>mining deep uranium</label>
+    <description>mining deep uranium.</description>
+    <jobString>Mining deep uranium</jobString>
+    <workAmount>6000</workAmount>
+    <efficiencyStat>MiningSpeed</efficiencyStat>
+    <effectWorking>Smelt</effectWorking>
+    <workSkillLearnFactor>2</workSkillLearnFactor>
+    <products>
+      <Uranium>3</Uranium>
+    </products>
+    <workSkill>Mining</workSkill>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>MiningSustainableSilver</defName>
+    <label>mining deep silver</label>
+    <description>mining deep silver.</description>
+    <jobString>Mining deep silver</jobString>
+    <workAmount>7000</workAmount>
+    <efficiencyStat>MiningSpeed</efficiencyStat>
+    <effectWorking>Smelt</effectWorking>
+    <workSkillLearnFactor>2</workSkillLearnFactor>
+    <products>
+      <Silver>3</Silver>
+    </products>
+    <workSkill>Mining</workSkill>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>MiningSustainableGold</defName>
+    <label>mining deep gold</label>
+    <description>mining deep gold.</description>
+    <jobString>Mining deep gold</jobString>
+    <workAmount>7000</workAmount>
+    <efficiencyStat>MiningSpeed</efficiencyStat>
+    <effectWorking>CutStone</effectWorking>
+    <workSkillLearnFactor>2</workSkillLearnFactor>
+    <products>
+      <Gold>2</Gold>
+    </products>
+    <workSkill>Mining</workSkill>
+  </RecipeDef>
+  <RecipeDef>
+    <defName>MiningSustainableJade</defName>
+    <label>mining deep jade</label>
+    <description>mining deep jade.</description>
+    <jobString>Mining deep jade</jobString>
+    <workAmount>7000</workAmount>
+    <efficiencyStat>MiningSpeed</efficiencyStat>
+    <effectWorking>CutStone</effectWorking>
+    <workSkillLearnFactor>2</workSkillLearnFactor>
+    <products>
+      <Jade>3</Jade>
+    </products>
+    <workSkill>Mining</workSkill>
+  </RecipeDef>
+</Defs>
