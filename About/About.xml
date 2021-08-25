@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>Sustainable Drill Updated (Continued)</name>
+  <name>Sustainable Drill (Continued)</name>
   <packageId>Mlie.SustainableDrill</packageId>
   <author>Bradeurs</author>
   <url>https://github.com/emipa606/SustainableDrill</url>
@@ -47,4 +47,3 @@ This is loosely based on TheUbie's deep core miner mod, but pulls resources at a
 [/list]
 </description>
 </ModMetaData>
-

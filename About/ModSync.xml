@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>e7ae2f46-7a2c-427b-ab54-4596ba4ed00b</ID>
   <ModName>Sustainable Drill Updated (Continued)</ModName>
-  <Version>1.0.0.0</Version>
+  <Version>1.0.1.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,7 +12,3 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
-
