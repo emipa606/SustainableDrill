@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: mining deep gold -->
+  <MiningSustainableGold.label>mining deep gold</MiningSustainableGold.label>
+  <!-- EN: mining deep gold. -->
+  <MiningSustainableGold.description>mining deep gold.</MiningSustainableGold.description>
+  <!-- EN: Mining deep gold -->
+  <MiningSustainableGold.jobString>Mining deep gold</MiningSustainableGold.jobString>
+  <!-- EN: mining deep jade -->
+  <MiningSustainableJade.label>mining deep jade</MiningSustainableJade.label>
+  <!-- EN: mining deep jade. -->
+  <MiningSustainableJade.description>mining deep jade.</MiningSustainableJade.description>
+  <!-- EN: Mining deep jade -->
+  <MiningSustainableJade.jobString>Mining deep jade</MiningSustainableJade.jobString>
+  <!-- EN: mining deep compacted machinery -->
+  <MiningSustainableMachinery.label>mining deep compacted machinery</MiningSustainableMachinery.label>
+  <!-- EN: mining deep compacted machinery. -->
+  <MiningSustainableMachinery.description>mining deep compacted machinery.</MiningSustainableMachinery.description>
+  <!-- EN: Mining deep compacted machinery. -->
+  <MiningSustainableMachinery.jobString>Mining deep compacted machinery.</MiningSustainableMachinery.jobString>
+  <!-- EN: mining deep compacted plasteel -->
+  <MiningSustainablePlasteel.label>mining deep compacted plasteel</MiningSustainablePlasteel.label>
+  <!-- EN: mining deep compacted plasteel. -->
+  <MiningSustainablePlasteel.description>mining deep compacted plasteel.</MiningSustainablePlasteel.description>
+  <!-- EN: Mining deep compacted plassteel. -->
+  <MiningSustainablePlasteel.jobString>Mining deep compacted plassteel.</MiningSustainablePlasteel.jobString>
+  <!-- EN: mining deep silver -->
+  <MiningSustainableSilver.label>mining deep silver</MiningSustainableSilver.label>
+  <!-- EN: mining deep silver. -->
+  <MiningSustainableSilver.description>mining deep silver.</MiningSustainableSilver.description>
+  <!-- EN: Mining deep silver -->
+  <MiningSustainableSilver.jobString>Mining deep silver</MiningSustainableSilver.jobString>
+  <!-- EN: mining deep compacted steel -->
+  <MiningSustainableSteel.label>mining deep compacted steel</MiningSustainableSteel.label>
+  <!-- EN: mining deep compacted steel. -->
+  <MiningSustainableSteel.description>mining deep compacted steel.</MiningSustainableSteel.description>
+  <!-- EN: Mining deep compacted steel. -->
+  <MiningSustainableSteel.jobString>Mining deep compacted steel.</MiningSustainableSteel.jobString>
+  <!-- EN: mining deep uranium -->
+  <MiningSustainableUranium.label>mining deep uranium</MiningSustainableUranium.label>
+  <!-- EN: mining deep uranium. -->
+  <MiningSustainableUranium.description>mining deep uranium.</MiningSustainableUranium.description>
+  <!-- EN: Mining deep uranium -->
+  <MiningSustainableUranium.jobString>Mining deep uranium</MiningSustainableUranium.jobString>
+</LanguageData>
